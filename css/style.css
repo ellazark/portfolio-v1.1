@@ -3,10 +3,10 @@ Bootstrap Variables Override
 **********************************/
 :root {
     /* Replace your primary color from your UI Kit */
-    --bs-primary: #ff7900;
+    --bs-primary: #E2D9F3;
 
     /* Replace your secondary color from your UI Kit  */
-    --secondary-color: #f9d583;
+    --secondary-color: #432874;
 
     /* Replace the main body font from your UI Kit */
     --bs-font-sans-serif: 'Fredoka', verdana, sans-serif;
